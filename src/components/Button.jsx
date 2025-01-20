@@ -19,7 +19,7 @@ const Button = ({icon, children, href, containerClassName, onClick, markerFill})
                 </span>
             </span>
 
-            <span className='glow-before'></span>
+            <span className='glow-before glow-after'></span>
         </>
     )
 
